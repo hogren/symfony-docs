@@ -19,7 +19,7 @@ Before creating your first Symfony application you must:
 
 * Install PHP 8.0.2 or higher and these PHP extensions (which are installed and
   enabled by default in most PHP 8 installations): `Ctype`_, `iconv`_,
-  `PCRE`_, `Session`_, `SimpleXML`_, and `Tokenizer`_;
+  `PCRE`_, `Session`_, `SimpleXML`_, `Tokenizer`_, and `Zip`_;
 
   * Note that all newer, released versions of PHP will be supported during the
     lifetime of each Symfony release (including new major versions).
@@ -328,5 +328,6 @@ Learn More
 .. _`Session`: https://www.php.net/book.session
 .. _`Ctype`: https://www.php.net/book.ctype
 .. _`Tokenizer`: https://www.php.net/book.tokenizer
+.. _`Zip`: https://www.php.net/book.zip
 .. _`SimpleXML`: https://www.php.net/book.simplexml
 .. _`PCRE`: https://www.php.net/book.pcre
